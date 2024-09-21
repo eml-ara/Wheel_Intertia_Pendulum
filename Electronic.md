@@ -1,4 +1,4 @@
-The list of parts on the project are the following:
+## The list of parts on the project are the following:
 
 | Motors | Description |
 | --- | --- |
