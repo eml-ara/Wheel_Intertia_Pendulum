@@ -1,7 +1,8 @@
 # Wheel_Intertia_Pendulum
 Selfbalancing pendulum driven by an inertia wheel.
 
-This archive will try to document the project development faces. So it will be separated on diferent things, from CAD, to the electronics used and developmentboards, as well as the code.
+This archive will try to document the project development faces. So it will be separated on diferent things, from [CAD](https://github.com/eml-ara/Wheel_Intertia_Pendulum/blob/Hardware/Inverted%20pendulum%20Drawing.pdf)
+, to the electronics used and developmentboards, as well as the code.
 Specially there will be different section for [Hardware](https://github.com/eml-ara/Wheel_Intertia_Pendulum/blob/Hardware/Mechanic.md)
 and Software, please review this section for a more indept understanding of the development on the proyect.
 If you have any note on the project feel free to let me know.
