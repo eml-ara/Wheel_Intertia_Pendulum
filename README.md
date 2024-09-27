@@ -5,7 +5,7 @@ This archive will try to document the project development faces. So it will be s
 , to the electronics used and developmentboards, as well as the code.
 Specially there will be different branches for developing [Hardware](https://github.com/eml-ara/Wheel_Intertia_Pendulum/tree/Presentation/Hardware)
 and [Software](https://github.com/eml-ara/Wheel_Intertia_Pendulum/tree/Software)
-, please review this sections for a more up tu date, in proces development on the proyect.
+, please review this sections for a more up tu date, in process development on the project.
 If you have any note on the project feel free to let me know.
 
 cheers, Emiliano.
